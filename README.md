@@ -2,7 +2,7 @@ To create in image:
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YORDI?" src="./images/my-profile-file.jpg">
+ <img alt="YORDI?" src="/images/my-profile-file.jpg">
 </picture>
 
 
